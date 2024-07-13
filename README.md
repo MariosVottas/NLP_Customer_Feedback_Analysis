@@ -1,5 +1,5 @@
 # NLP_Customer_Feedback_Analysis
-This project is a personal training task to practise with NLP. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager.
+This project is part of a technical interview for an entry level Data Scientist position and a chance to practise with NLP. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager.
 
 ## Repo files This repo contains:
 
